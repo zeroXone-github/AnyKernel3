@@ -17,6 +17,7 @@ device.name4=renoir_jp
 device.name5=renoir_ru
 device.name6=renoir_tw
 device.name7=renoir_cn
+device.name8=lisa
 supported.versions=14
 supported.patchlevels=
 '; } # end properties
